@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GitExpressProject1.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
